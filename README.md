@@ -27,3 +27,5 @@ we have done all the preparation for database preparation
 		11.1.4. It will create a table in server
 
 12. now we will create controllers and all to perform CURD operation
+13. Now we have to add a controller AdminTagController in controller which is responsible for add the tag and we have to build respective view for it
+14. To add a new view w.r.t controller right click on view in controller class and add a new empty razor view this view is responsible for storing htmlnd css
