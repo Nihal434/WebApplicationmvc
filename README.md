@@ -2,7 +2,7 @@
 step 1 : create a model in our project our model is blogpost and tag
 2. define property inside a model
 3. set a relation between two different model
-4.now we have have created a domain model now we want entity framework to create a actual SQL table
+4. now we have have created a domain model now we want entity framework to create a actual SQL table
 5.to create entity framework download two packages
    5.1. Microsoft.EntityFrameworkCore.SqlServer
    5.2. Microsoft.EntityFrameworkCore.SqlServer
